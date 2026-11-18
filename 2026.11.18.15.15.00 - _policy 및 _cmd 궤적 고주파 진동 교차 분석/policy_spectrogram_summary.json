@@ -1,0 +1,907 @@
+{
+  "csv_file": "2026-11-18_13-33-46_policy.csv",
+  "source_hz": 30,
+  "num_samples": 1814,
+  "t_start_s": 4.36,
+  "duration_s": 60.43,
+  "band_power_deg2": {
+    "[0, 1) Hz": 205.2176,
+    "[1, 2) Hz": 37.4882,
+    "[2, 3) Hz": 10.5931,
+    "[3, 5) Hz": 9.4604,
+    "[5, 10) Hz": 8.5177,
+    "[10, 15) Hz": 4.2697
+  },
+  "total_segments_ge_3s": 99,
+  "joints_with_segments": 16,
+  "joints": {
+    "joint10": {
+      "hp_rms_deg": 4.0284,
+      "hp_peak_deg": 36.2383,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.46,
+          "end_s": 9.66,
+          "duration_s": 5.2,
+          "peak_rms_deg": 10.394,
+          "mean_rms_deg": 5.43,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.99,
+          "end_s": 18.86,
+          "duration_s": 4.87,
+          "peak_rms_deg": 10.749,
+          "mean_rms_deg": 5.763,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 22.72,
+          "end_s": 27.19,
+          "duration_s": 4.47,
+          "peak_rms_deg": 8.278,
+          "mean_rms_deg": 4.737,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 32.99,
+          "end_s": 39.19,
+          "duration_s": 6.2,
+          "peak_rms_deg": 10.331,
+          "mean_rms_deg": 5.408,
+          "dominant_freq_hz": 6.0
+        },
+        {
+          "start_s": 51.82,
+          "end_s": 57.39,
+          "duration_s": 5.57,
+          "peak_rms_deg": 6.329,
+          "mean_rms_deg": 4.337,
+          "dominant_freq_hz": 4.0
+        }
+      ]
+    },
+    "joint11": {
+      "hp_rms_deg": 5.7724,
+      "hp_peak_deg": 44.9631,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.49,
+          "end_s": 9.39,
+          "duration_s": 4.9,
+          "peak_rms_deg": 9.331,
+          "mean_rms_deg": 6.5,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.79,
+          "end_s": 18.76,
+          "duration_s": 4.97,
+          "peak_rms_deg": 7.807,
+          "mean_rms_deg": 4.503,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 23.06,
+          "end_s": 27.89,
+          "duration_s": 4.83,
+          "peak_rms_deg": 10.217,
+          "mean_rms_deg": 4.887,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 33.16,
+          "end_s": 39.89,
+          "duration_s": 6.73,
+          "peak_rms_deg": 15.837,
+          "mean_rms_deg": 9.734,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 44.19,
+          "end_s": 47.42,
+          "duration_s": 3.23,
+          "peak_rms_deg": 10.961,
+          "mean_rms_deg": 6.509,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 51.62,
+          "end_s": 57.46,
+          "duration_s": 5.83,
+          "peak_rms_deg": 12.194,
+          "mean_rms_deg": 6.865,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 61.82,
+          "end_s": 64.82,
+          "duration_s": 3.0,
+          "peak_rms_deg": 13.776,
+          "mean_rms_deg": 9.298,
+          "dominant_freq_hz": 4.5
+        }
+      ]
+    },
+    "joint12": {
+      "hp_rms_deg": 5.1816,
+      "hp_peak_deg": 44.701,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.36,
+          "end_s": 9.72,
+          "duration_s": 5.37,
+          "peak_rms_deg": 8.933,
+          "mean_rms_deg": 5.904,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 13.66,
+          "end_s": 18.79,
+          "duration_s": 5.13,
+          "peak_rms_deg": 6.564,
+          "mean_rms_deg": 4.019,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 23.12,
+          "end_s": 27.82,
+          "duration_s": 4.7,
+          "peak_rms_deg": 7.361,
+          "mean_rms_deg": 4.687,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 32.99,
+          "end_s": 39.89,
+          "duration_s": 6.9,
+          "peak_rms_deg": 14.242,
+          "mean_rms_deg": 7.508,
+          "dominant_freq_hz": 11.5
+        },
+        {
+          "start_s": 43.86,
+          "end_s": 47.66,
+          "duration_s": 3.8,
+          "peak_rms_deg": 7.768,
+          "mean_rms_deg": 5.058,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 51.56,
+          "end_s": 57.36,
+          "duration_s": 5.8,
+          "peak_rms_deg": 11.276,
+          "mean_rms_deg": 5.579,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 61.39,
+          "end_s": 64.82,
+          "duration_s": 3.43,
+          "peak_rms_deg": 15.781,
+          "mean_rms_deg": 10.034,
+          "dominant_freq_hz": 13.0
+        }
+      ]
+    },
+    "joint13": {
+      "hp_rms_deg": 4.8809,
+      "hp_peak_deg": 37.7149,
+      "segments_ge_3s": [
+        {
+          "start_s": 5.36,
+          "end_s": 9.59,
+          "duration_s": 4.23,
+          "peak_rms_deg": 7.51,
+          "mean_rms_deg": 5.651,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.79,
+          "end_s": 18.36,
+          "duration_s": 4.57,
+          "peak_rms_deg": 12.811,
+          "mean_rms_deg": 7.075,
+          "dominant_freq_hz": 8.0
+        },
+        {
+          "start_s": 22.89,
+          "end_s": 26.62,
+          "duration_s": 3.73,
+          "peak_rms_deg": 7.143,
+          "mean_rms_deg": 3.628,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 33.46,
+          "end_s": 39.96,
+          "duration_s": 6.5,
+          "peak_rms_deg": 10.898,
+          "mean_rms_deg": 6.172,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 51.76,
+          "end_s": 57.42,
+          "duration_s": 5.67,
+          "peak_rms_deg": 12.328,
+          "mean_rms_deg": 7.378,
+          "dominant_freq_hz": 5.0
+        }
+      ]
+    },
+    "joint20": {
+      "hp_rms_deg": 5.3111,
+      "hp_peak_deg": 47.0155,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.42,
+          "end_s": 9.82,
+          "duration_s": 5.4,
+          "peak_rms_deg": 9.604,
+          "mean_rms_deg": 5.93,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 13.96,
+          "end_s": 18.82,
+          "duration_s": 4.87,
+          "peak_rms_deg": 14.036,
+          "mean_rms_deg": 7.927,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 22.99,
+          "end_s": 27.76,
+          "duration_s": 4.77,
+          "peak_rms_deg": 12.965,
+          "mean_rms_deg": 5.973,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 33.86,
+          "end_s": 40.09,
+          "duration_s": 6.23,
+          "peak_rms_deg": 12.201,
+          "mean_rms_deg": 6.821,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 43.99,
+          "end_s": 47.66,
+          "duration_s": 3.67,
+          "peak_rms_deg": 9.294,
+          "mean_rms_deg": 5.469,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 51.72,
+          "end_s": 57.36,
+          "duration_s": 5.63,
+          "peak_rms_deg": 10.284,
+          "mean_rms_deg": 5.679,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 61.52,
+          "end_s": 64.82,
+          "duration_s": 3.3,
+          "peak_rms_deg": 10.161,
+          "mean_rms_deg": 7.194,
+          "dominant_freq_hz": 4.5
+        }
+      ]
+    },
+    "joint21": {
+      "hp_rms_deg": 5.0047,
+      "hp_peak_deg": 43.6421,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.49,
+          "end_s": 9.52,
+          "duration_s": 5.03,
+          "peak_rms_deg": 8.998,
+          "mean_rms_deg": 5.614,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.89,
+          "end_s": 18.82,
+          "duration_s": 4.93,
+          "peak_rms_deg": 8.005,
+          "mean_rms_deg": 4.874,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 23.42,
+          "end_s": 27.92,
+          "duration_s": 4.5,
+          "peak_rms_deg": 8.845,
+          "mean_rms_deg": 5.378,
+          "dominant_freq_hz": 5.5
+        },
+        {
+          "start_s": 33.19,
+          "end_s": 39.96,
+          "duration_s": 6.77,
+          "peak_rms_deg": 13.74,
+          "mean_rms_deg": 8.472,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 43.89,
+          "end_s": 47.69,
+          "duration_s": 3.8,
+          "peak_rms_deg": 7.261,
+          "mean_rms_deg": 5.144,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 51.72,
+          "end_s": 56.29,
+          "duration_s": 4.57,
+          "peak_rms_deg": 7.366,
+          "mean_rms_deg": 5.492,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 61.46,
+          "end_s": 64.82,
+          "duration_s": 3.37,
+          "peak_rms_deg": 12.17,
+          "mean_rms_deg": 7.7,
+          "dominant_freq_hz": 13.0
+        }
+      ]
+    },
+    "joint22": {
+      "hp_rms_deg": 5.0418,
+      "hp_peak_deg": 46.6119,
+      "segments_ge_3s": [
+        {
+          "start_s": 6.49,
+          "end_s": 9.82,
+          "duration_s": 3.33,
+          "peak_rms_deg": 9.425,
+          "mean_rms_deg": 5.696,
+          "dominant_freq_hz": 5.5
+        },
+        {
+          "start_s": 14.36,
+          "end_s": 17.96,
+          "duration_s": 3.6,
+          "peak_rms_deg": 7.38,
+          "mean_rms_deg": 4.482,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 35.12,
+          "end_s": 39.29,
+          "duration_s": 4.17,
+          "peak_rms_deg": 16.026,
+          "mean_rms_deg": 9.576,
+          "dominant_freq_hz": 15.0
+        },
+        {
+          "start_s": 44.12,
+          "end_s": 47.66,
+          "duration_s": 3.53,
+          "peak_rms_deg": 10.784,
+          "mean_rms_deg": 6.029,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 51.86,
+          "end_s": 57.39,
+          "duration_s": 5.53,
+          "peak_rms_deg": 9.823,
+          "mean_rms_deg": 6.028,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 61.46,
+          "end_s": 64.66,
+          "duration_s": 3.2,
+          "peak_rms_deg": 17.644,
+          "mean_rms_deg": 9.055,
+          "dominant_freq_hz": 14.5
+        }
+      ]
+    },
+    "joint23": {
+      "hp_rms_deg": 4.5481,
+      "hp_peak_deg": 41.6276,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.39,
+          "end_s": 9.26,
+          "duration_s": 4.87,
+          "peak_rms_deg": 7.305,
+          "mean_rms_deg": 4.677,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 13.72,
+          "end_s": 18.16,
+          "duration_s": 4.43,
+          "peak_rms_deg": 7.876,
+          "mean_rms_deg": 4.967,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 23.06,
+          "end_s": 27.96,
+          "duration_s": 4.9,
+          "peak_rms_deg": 12.17,
+          "mean_rms_deg": 5.886,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 33.12,
+          "end_s": 39.96,
+          "duration_s": 6.83,
+          "peak_rms_deg": 11.8,
+          "mean_rms_deg": 6.639,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 43.82,
+          "end_s": 47.39,
+          "duration_s": 3.57,
+          "peak_rms_deg": 7.025,
+          "mean_rms_deg": 3.717,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 52.36,
+          "end_s": 57.39,
+          "duration_s": 5.03,
+          "peak_rms_deg": 9.476,
+          "mean_rms_deg": 6.094,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 61.66,
+          "end_s": 64.82,
+          "duration_s": 3.17,
+          "peak_rms_deg": 10.087,
+          "mean_rms_deg": 6.629,
+          "dominant_freq_hz": 4.0
+        }
+      ]
+    },
+    "joint30": {
+      "hp_rms_deg": 3.8454,
+      "hp_peak_deg": 26.3124,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.52,
+          "end_s": 9.66,
+          "duration_s": 5.13,
+          "peak_rms_deg": 7.457,
+          "mean_rms_deg": 5.188,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 13.79,
+          "end_s": 18.36,
+          "duration_s": 4.57,
+          "peak_rms_deg": 5.326,
+          "mean_rms_deg": 3.89,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 22.89,
+          "end_s": 27.86,
+          "duration_s": 4.97,
+          "peak_rms_deg": 6.314,
+          "mean_rms_deg": 4.0,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 33.06,
+          "end_s": 39.79,
+          "duration_s": 6.73,
+          "peak_rms_deg": 8.3,
+          "mean_rms_deg": 4.642,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 51.79,
+          "end_s": 57.09,
+          "duration_s": 5.3,
+          "peak_rms_deg": 7.927,
+          "mean_rms_deg": 4.837,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 61.39,
+          "end_s": 64.82,
+          "duration_s": 3.43,
+          "peak_rms_deg": 10.263,
+          "mean_rms_deg": 6.364,
+          "dominant_freq_hz": 4.5
+        }
+      ]
+    },
+    "joint31": {
+      "hp_rms_deg": 4.526,
+      "hp_peak_deg": 30.3013,
+      "segments_ge_3s": [
+        {
+          "start_s": 5.12,
+          "end_s": 9.76,
+          "duration_s": 4.63,
+          "peak_rms_deg": 8.798,
+          "mean_rms_deg": 5.713,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 14.69,
+          "end_s": 18.56,
+          "duration_s": 3.87,
+          "peak_rms_deg": 10.747,
+          "mean_rms_deg": 6.253,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 23.02,
+          "end_s": 27.79,
+          "duration_s": 4.77,
+          "peak_rms_deg": 8.25,
+          "mean_rms_deg": 5.028,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 34.09,
+          "end_s": 40.12,
+          "duration_s": 6.03,
+          "peak_rms_deg": 11.985,
+          "mean_rms_deg": 7.156,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 44.42,
+          "end_s": 47.49,
+          "duration_s": 3.07,
+          "peak_rms_deg": 7.04,
+          "mean_rms_deg": 4.63,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 51.82,
+          "end_s": 57.52,
+          "duration_s": 5.7,
+          "peak_rms_deg": 9.656,
+          "mean_rms_deg": 5.944,
+          "dominant_freq_hz": 4.5
+        }
+      ]
+    },
+    "joint32": {
+      "hp_rms_deg": 5.6291,
+      "hp_peak_deg": 41.1634,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.42,
+          "end_s": 9.72,
+          "duration_s": 5.3,
+          "peak_rms_deg": 13.555,
+          "mean_rms_deg": 8.44,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.86,
+          "end_s": 18.82,
+          "duration_s": 4.97,
+          "peak_rms_deg": 8.691,
+          "mean_rms_deg": 5.486,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 23.32,
+          "end_s": 27.92,
+          "duration_s": 4.6,
+          "peak_rms_deg": 11.965,
+          "mean_rms_deg": 6.252,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 33.26,
+          "end_s": 39.96,
+          "duration_s": 6.7,
+          "peak_rms_deg": 14.599,
+          "mean_rms_deg": 6.912,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 44.02,
+          "end_s": 47.62,
+          "duration_s": 3.6,
+          "peak_rms_deg": 9.945,
+          "mean_rms_deg": 6.283,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 51.76,
+          "end_s": 57.56,
+          "duration_s": 5.8,
+          "peak_rms_deg": 12.36,
+          "mean_rms_deg": 5.876,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 61.49,
+          "end_s": 64.82,
+          "duration_s": 3.33,
+          "peak_rms_deg": 10.681,
+          "mean_rms_deg": 7.009,
+          "dominant_freq_hz": 4.0
+        }
+      ]
+    },
+    "joint33": {
+      "hp_rms_deg": 4.7799,
+      "hp_peak_deg": 36.8194,
+      "segments_ge_3s": [
+        {
+          "start_s": 5.19,
+          "end_s": 9.72,
+          "duration_s": 4.53,
+          "peak_rms_deg": 14.607,
+          "mean_rms_deg": 8.664,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.99,
+          "end_s": 18.76,
+          "duration_s": 4.77,
+          "peak_rms_deg": 8.744,
+          "mean_rms_deg": 5.148,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 22.92,
+          "end_s": 27.89,
+          "duration_s": 4.97,
+          "peak_rms_deg": 9.927,
+          "mean_rms_deg": 6.447,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 33.06,
+          "end_s": 39.22,
+          "duration_s": 6.17,
+          "peak_rms_deg": 9.806,
+          "mean_rms_deg": 5.376,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 44.42,
+          "end_s": 47.66,
+          "duration_s": 3.23,
+          "peak_rms_deg": 8.105,
+          "mean_rms_deg": 5.933,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 52.02,
+          "end_s": 57.52,
+          "duration_s": 5.5,
+          "peak_rms_deg": 9.816,
+          "mean_rms_deg": 5.659,
+          "dominant_freq_hz": 4.0
+        }
+      ]
+    },
+    "joint40": {
+      "hp_rms_deg": 4.0923,
+      "hp_peak_deg": 38.3102,
+      "segments_ge_3s": [
+        {
+          "start_s": 5.39,
+          "end_s": 9.79,
+          "duration_s": 4.4,
+          "peak_rms_deg": 7.307,
+          "mean_rms_deg": 4.741,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 14.06,
+          "end_s": 18.96,
+          "duration_s": 4.9,
+          "peak_rms_deg": 10.236,
+          "mean_rms_deg": 5.717,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 23.36,
+          "end_s": 27.19,
+          "duration_s": 3.83,
+          "peak_rms_deg": 9.094,
+          "mean_rms_deg": 5.398,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 33.26,
+          "end_s": 39.32,
+          "duration_s": 6.07,
+          "peak_rms_deg": 11.481,
+          "mean_rms_deg": 5.92,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 43.86,
+          "end_s": 47.52,
+          "duration_s": 3.67,
+          "peak_rms_deg": 5.015,
+          "mean_rms_deg": 3.466,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 51.46,
+          "end_s": 57.49,
+          "duration_s": 6.03,
+          "peak_rms_deg": 6.906,
+          "mean_rms_deg": 4.88,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 61.49,
+          "end_s": 64.49,
+          "duration_s": 3.0,
+          "peak_rms_deg": 7.306,
+          "mean_rms_deg": 5.423,
+          "dominant_freq_hz": 3.5
+        }
+      ]
+    },
+    "joint41": {
+      "hp_rms_deg": 4.4503,
+      "hp_peak_deg": 33.761,
+      "segments_ge_3s": [
+        {
+          "start_s": 4.99,
+          "end_s": 9.62,
+          "duration_s": 4.63,
+          "peak_rms_deg": 7.639,
+          "mean_rms_deg": 4.429,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 13.72,
+          "end_s": 18.82,
+          "duration_s": 5.1,
+          "peak_rms_deg": 10.654,
+          "mean_rms_deg": 6.407,
+          "dominant_freq_hz": 5.0
+        },
+        {
+          "start_s": 22.92,
+          "end_s": 27.09,
+          "duration_s": 4.17,
+          "peak_rms_deg": 6.921,
+          "mean_rms_deg": 4.25,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 33.06,
+          "end_s": 39.99,
+          "duration_s": 6.93,
+          "peak_rms_deg": 13.326,
+          "mean_rms_deg": 6.739,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 44.02,
+          "end_s": 47.46,
+          "duration_s": 3.43,
+          "peak_rms_deg": 7.333,
+          "mean_rms_deg": 4.621,
+          "dominant_freq_hz": 4.5
+        },
+        {
+          "start_s": 51.66,
+          "end_s": 57.42,
+          "duration_s": 5.77,
+          "peak_rms_deg": 7.724,
+          "mean_rms_deg": 5.19,
+          "dominant_freq_hz": 3.5
+        }
+      ]
+    },
+    "joint42": {
+      "hp_rms_deg": 4.1288,
+      "hp_peak_deg": 34.6395,
+      "segments_ge_3s": [
+        {
+          "start_s": 13.69,
+          "end_s": 18.82,
+          "duration_s": 5.13,
+          "peak_rms_deg": 11.371,
+          "mean_rms_deg": 6.668,
+          "dominant_freq_hz": 6.0
+        },
+        {
+          "start_s": 22.92,
+          "end_s": 27.82,
+          "duration_s": 4.9,
+          "peak_rms_deg": 10.27,
+          "mean_rms_deg": 5.424,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 33.62,
+          "end_s": 38.79,
+          "duration_s": 5.17,
+          "peak_rms_deg": 10.974,
+          "mean_rms_deg": 7.263,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 43.89,
+          "end_s": 47.02,
+          "duration_s": 3.13,
+          "peak_rms_deg": 6.233,
+          "mean_rms_deg": 3.857,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 52.49,
+          "end_s": 57.32,
+          "duration_s": 4.83,
+          "peak_rms_deg": 5.677,
+          "mean_rms_deg": 3.551,
+          "dominant_freq_hz": 4.0
+        }
+      ]
+    },
+    "joint43": {
+      "hp_rms_deg": 3.8345,
+      "hp_peak_deg": 36.9327,
+      "segments_ge_3s": [
+        {
+          "start_s": 13.82,
+          "end_s": 18.82,
+          "duration_s": 5.0,
+          "peak_rms_deg": 9.612,
+          "mean_rms_deg": 5.603,
+          "dominant_freq_hz": 5.5
+        },
+        {
+          "start_s": 23.02,
+          "end_s": 26.89,
+          "duration_s": 3.87,
+          "peak_rms_deg": 8.899,
+          "mean_rms_deg": 5.064,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 33.52,
+          "end_s": 39.76,
+          "duration_s": 6.23,
+          "peak_rms_deg": 12.315,
+          "mean_rms_deg": 7.115,
+          "dominant_freq_hz": 4.0
+        },
+        {
+          "start_s": 44.02,
+          "end_s": 47.16,
+          "duration_s": 3.13,
+          "peak_rms_deg": 5.229,
+          "mean_rms_deg": 3.85,
+          "dominant_freq_hz": 3.5
+        },
+        {
+          "start_s": 52.39,
+          "end_s": 56.09,
+          "duration_s": 3.7,
+          "peak_rms_deg": 7.425,
+          "mean_rms_deg": 4.629,
+          "dominant_freq_hz": 3.5
+        }
+      ]
+    }
+  }
+}
